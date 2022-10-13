@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Can_be_triange\Can_be_triange\bin\Debug\Can_be_triange.exe
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Can_be_triange\Can_be_triange\bin\Debug\Can_be_triange.pdb
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Can_be_triange\Can_be_triange\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Can_be_triange\Can_be_triange\obj\x86\Debug\Can_be_triange.Form1.resources
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Can_be_triange\Can_be_triange\obj\x86\Debug\Can_be_triange.Properties.Resources.resources
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Can_be_triange\Can_be_triange\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Can_be_triange\Can_be_triange\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Can_be_triange\Can_be_triange\obj\x86\Debug\Can_be_triange.exe
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Can_be_triange\Can_be_triange\obj\x86\Debug\Can_be_triange.pdb
